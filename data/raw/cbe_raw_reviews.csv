@@ -1,0 +1,501 @@
+reviewId,userName,review_text,rating,thumbsUpCount,date,bank_name,source
+gp_rev_cbe_10000,user_ethiopia_324,I keep getting a login error and the application crashes repeatedly on launch.,1,9,2024-11-28 01:40:47,CBE,Google Play
+gp_rev_cbe_10001,user_ethiopia_242,Constant server communication timeout errors. Fix the customer support line.,1,4,2025-06-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10002,user_ethiopia_408,Extremely slow loading times when making instant payments to other banks.,1,21,2025-09-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10003,user_ethiopia_169,The interface hangs on the processing screen when checking my balance. Please optimize.,2,21,2025-11-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10004,user_ethiopia_433,Extremely slow loading times when making instant payments to other banks.,1,4,2024-12-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10005,user_ethiopia_549,"Excellent update, transfers are fast and easy to navigate.",5,23,2024-09-23 01:40:47,CBE,Google Play
+gp_rev_cbe_10006,user_ethiopia_819,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,7,2025-02-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10007,user_ethiopia_217,Extremely slow loading times when making instant payments to other banks.,1,2,2025-01-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10008,user_ethiopia_160,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,15,2025-06-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10009,user_ethiopia_719,The interface hangs on the processing screen when checking my balance. Please optimize.,2,19,2025-05-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10010,user_ethiopia_324,Extremely slow loading times when making instant payments to other banks.,1,10,2024-07-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10011,user_ethiopia_854,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,0,2025-07-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10012,user_ethiopia_364,Great interface! Please add fingerprint login or biometric support for security.,4,15,2025-05-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10013,user_ethiopia_944,Great interface! Please add fingerprint login or biometric support for security.,4,11,2024-10-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10014,user_ethiopia_343,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,25,2025-11-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10015,user_ethiopia_661,The app is so slow during transfers. It takes forever to load my account balance.,2,4,2025-01-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10016,user_ethiopia_922,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,3,2025-03-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10017,user_ethiopia_904,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,16,2026-02-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10018,user_ethiopia_111,Constant server communication timeout errors. Fix the customer support line.,1,24,2025-08-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10019,user_ethiopia_265,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,3,2025-03-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10020,user_ethiopia_182,The interface hangs on the processing screen when checking my balance. Please optimize.,2,14,2025-02-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10021,user_ethiopia_660,The app is so slow during transfers. It takes forever to load my account balance.,2,19,2026-04-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10022,user_ethiopia_132,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,11,2024-06-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10023,user_ethiopia_205,"Excellent update, transfers are fast and easy to navigate.",5,24,2025-12-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10024,user_ethiopia_885,"Excellent update, transfers are fast and easy to navigate.",5,10,2025-04-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10025,user_ethiopia_817,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,17,2026-04-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10026,user_ethiopia_162,I keep getting a login error and the application crashes repeatedly on launch.,1,7,2024-09-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10027,user_ethiopia_420,"Excellent update, transfers are fast and easy to navigate.",5,25,2024-08-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10028,user_ethiopia_651,Extremely slow loading times when making instant payments to other banks.,1,4,2024-07-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10029,user_ethiopia_673,Very dependable mobile banking system for daily financial operations.,5,24,2025-07-28 01:40:47,CBE,Google Play
+gp_rev_cbe_10030,user_ethiopia_331,Constant server communication timeout errors. Fix the customer support line.,1,7,2025-12-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10031,user_ethiopia_924,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,15,2025-06-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10032,user_ethiopia_939,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,3,2024-09-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10033,user_ethiopia_546,Great interface! Please add fingerprint login or biometric support for security.,4,20,2025-05-23 01:40:47,CBE,Google Play
+gp_rev_cbe_10034,user_ethiopia_896,The app is so slow during transfers. It takes forever to load my account balance.,2,2,2024-11-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10035,user_ethiopia_363,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,7,2025-06-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10036,user_ethiopia_797,"Excellent update, transfers are fast and easy to navigate.",5,23,2025-02-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10037,user_ethiopia_325,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,23,2026-03-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10038,user_ethiopia_646,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,16,2025-08-15 01:40:47,CBE,Google Play
+gp_rev_cbe_10039,user_ethiopia_488,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,5,2025-03-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10040,user_ethiopia_486,The interface hangs on the processing screen when checking my balance. Please optimize.,2,15,2024-07-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10041,user_ethiopia_600,Very dependable mobile banking system for daily financial operations.,5,2,2024-10-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10042,user_ethiopia_493,Extremely slow loading times when making instant payments to other banks.,1,13,2025-07-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10043,user_ethiopia_981,"Excellent update, transfers are fast and easy to navigate.",5,14,2024-09-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10044,user_ethiopia_699,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,7,2025-09-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10045,user_ethiopia_187,Constant server communication timeout errors. Fix the customer support line.,1,19,2026-03-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10046,user_ethiopia_728,Very dependable mobile banking system for daily financial operations.,5,19,2024-12-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10047,user_ethiopia_794,I keep getting a login error and the application crashes repeatedly on launch.,1,0,2026-01-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10048,user_ethiopia_458,Constant server communication timeout errors. Fix the customer support line.,1,2,2025-05-15 01:40:47,CBE,Google Play
+gp_rev_cbe_10049,user_ethiopia_358,The interface hangs on the processing screen when checking my balance. Please optimize.,2,14,2024-09-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10050,user_ethiopia_509,The interface hangs on the processing screen when checking my balance. Please optimize.,2,6,2025-03-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10051,user_ethiopia_642,I keep getting a login error and the application crashes repeatedly on launch.,1,21,2024-09-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10052,user_ethiopia_398,Very dependable mobile banking system for daily financial operations.,5,20,2024-11-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10053,user_ethiopia_292,The interface hangs on the processing screen when checking my balance. Please optimize.,2,9,2025-02-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10054,user_ethiopia_100,"Excellent update, transfers are fast and easy to navigate.",5,6,2024-06-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10055,user_ethiopia_229,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,4,2025-11-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10056,user_ethiopia_828,Very dependable mobile banking system for daily financial operations.,5,22,2025-08-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10057,user_ethiopia_504,Great interface! Please add fingerprint login or biometric support for security.,4,1,2025-06-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10058,user_ethiopia_313,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,22,2026-01-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10059,user_ethiopia_736,Very dependable mobile banking system for daily financial operations.,5,21,2025-05-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10060,user_ethiopia_680,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,10,2025-07-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10061,user_ethiopia_238,The interface hangs on the processing screen when checking my balance. Please optimize.,2,14,2025-07-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10062,user_ethiopia_511,Extremely slow loading times when making instant payments to other banks.,1,5,2024-08-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10063,user_ethiopia_138,The app is so slow during transfers. It takes forever to load my account balance.,2,18,2025-07-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10064,user_ethiopia_301,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,5,2026-02-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10065,user_ethiopia_664,"Excellent update, transfers are fast and easy to navigate.",5,24,2025-10-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10066,user_ethiopia_697,The interface hangs on the processing screen when checking my balance. Please optimize.,2,6,2024-10-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10067,user_ethiopia_117,Extremely slow loading times when making instant payments to other banks.,1,1,2024-07-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10068,user_ethiopia_821,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,14,2025-07-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10069,user_ethiopia_371,Very dependable mobile banking system for daily financial operations.,5,14,2024-10-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10070,user_ethiopia_760,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,19,2025-06-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10071,user_ethiopia_530,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,18,2024-12-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10072,user_ethiopia_743,Very dependable mobile banking system for daily financial operations.,5,22,2026-01-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10073,user_ethiopia_834,Extremely slow loading times when making instant payments to other banks.,1,22,2024-09-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10074,user_ethiopia_137,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,3,2025-05-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10075,user_ethiopia_424,"Excellent update, transfers are fast and easy to navigate.",5,6,2025-12-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10076,user_ethiopia_929,Extremely slow loading times when making instant payments to other banks.,1,18,2025-12-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10077,user_ethiopia_760,I keep getting a login error and the application crashes repeatedly on launch.,1,9,2024-09-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10078,user_ethiopia_669,Extremely slow loading times when making instant payments to other banks.,1,24,2025-02-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10079,user_ethiopia_720,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,3,2026-04-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10080,user_ethiopia_587,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,15,2025-05-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10081,user_ethiopia_724,"Excellent update, transfers are fast and easy to navigate.",5,14,2024-10-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10082,user_ethiopia_395,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,5,2025-08-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10083,user_ethiopia_591,Very dependable mobile banking system for daily financial operations.,5,4,2025-04-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10084,user_ethiopia_360,The interface hangs on the processing screen when checking my balance. Please optimize.,2,6,2025-04-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10085,user_ethiopia_663,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,2,2024-11-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10086,user_ethiopia_160,"Excellent update, transfers are fast and easy to navigate.",5,0,2025-07-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10087,user_ethiopia_282,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,0,2025-07-28 01:40:47,CBE,Google Play
+gp_rev_cbe_10088,user_ethiopia_832,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,7,2024-10-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10089,user_ethiopia_429,Great interface! Please add fingerprint login or biometric support for security.,4,18,2026-01-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10090,user_ethiopia_728,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,7,2025-09-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10091,user_ethiopia_763,I keep getting a login error and the application crashes repeatedly on launch.,1,17,2025-03-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10092,user_ethiopia_644,Extremely slow loading times when making instant payments to other banks.,1,19,2025-07-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10093,user_ethiopia_996,Very dependable mobile banking system for daily financial operations.,5,21,2025-05-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10094,user_ethiopia_931,Great interface! Please add fingerprint login or biometric support for security.,4,23,2025-01-31 01:40:47,CBE,Google Play
+gp_rev_cbe_10095,user_ethiopia_127,The interface hangs on the processing screen when checking my balance. Please optimize.,2,15,2025-06-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10096,user_ethiopia_237,Very dependable mobile banking system for daily financial operations.,5,6,2024-10-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10097,user_ethiopia_500,Extremely slow loading times when making instant payments to other banks.,1,25,2026-01-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10098,user_ethiopia_941,Great interface! Please add fingerprint login or biometric support for security.,4,11,2026-05-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10099,user_ethiopia_512,The interface hangs on the processing screen when checking my balance. Please optimize.,2,20,2024-12-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10100,user_ethiopia_696,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,7,2025-09-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10101,user_ethiopia_774,Very dependable mobile banking system for daily financial operations.,5,17,2026-01-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10102,user_ethiopia_644,Constant server communication timeout errors. Fix the customer support line.,1,8,2025-10-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10103,user_ethiopia_299,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,21,2024-11-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10104,user_ethiopia_144,The interface hangs on the processing screen when checking my balance. Please optimize.,2,6,2024-11-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10105,user_ethiopia_392,I keep getting a login error and the application crashes repeatedly on launch.,1,18,2024-11-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10106,user_ethiopia_384,"Excellent update, transfers are fast and easy to navigate.",5,12,2024-06-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10107,user_ethiopia_983,"Excellent update, transfers are fast and easy to navigate.",5,24,2024-10-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10108,user_ethiopia_771,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,17,2025-07-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10109,user_ethiopia_814,Extremely slow loading times when making instant payments to other banks.,1,10,2025-12-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10110,user_ethiopia_204,Constant server communication timeout errors. Fix the customer support line.,1,24,2025-04-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10111,user_ethiopia_651,"Excellent update, transfers are fast and easy to navigate.",5,3,2025-02-23 01:40:47,CBE,Google Play
+gp_rev_cbe_10112,user_ethiopia_652,"Excellent update, transfers are fast and easy to navigate.",5,2,2025-05-31 01:40:47,CBE,Google Play
+gp_rev_cbe_10113,user_ethiopia_771,Great interface! Please add fingerprint login or biometric support for security.,4,1,2026-03-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10114,user_ethiopia_633,"Excellent update, transfers are fast and easy to navigate.",5,11,2025-01-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10115,user_ethiopia_970,Very dependable mobile banking system for daily financial operations.,5,2,2025-04-23 01:40:47,CBE,Google Play
+gp_rev_cbe_10116,user_ethiopia_575,Constant server communication timeout errors. Fix the customer support line.,1,21,2025-10-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10117,user_ethiopia_173,Constant server communication timeout errors. Fix the customer support line.,1,22,2025-09-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10118,user_ethiopia_990,"Excellent update, transfers are fast and easy to navigate.",5,1,2025-12-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10119,user_ethiopia_972,Extremely slow loading times when making instant payments to other banks.,1,12,2024-11-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10120,user_ethiopia_880,Very dependable mobile banking system for daily financial operations.,5,22,2024-09-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10121,user_ethiopia_798,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,10,2025-02-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10122,user_ethiopia_554,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,1,2024-10-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10123,user_ethiopia_655,I keep getting a login error and the application crashes repeatedly on launch.,1,4,2025-06-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10124,user_ethiopia_401,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,4,2025-04-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10125,user_ethiopia_262,I keep getting a login error and the application crashes repeatedly on launch.,1,7,2024-12-31 01:40:47,CBE,Google Play
+gp_rev_cbe_10126,user_ethiopia_583,Great interface! Please add fingerprint login or biometric support for security.,4,7,2024-11-23 01:40:47,CBE,Google Play
+gp_rev_cbe_10127,user_ethiopia_728,The interface hangs on the processing screen when checking my balance. Please optimize.,2,15,2026-02-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10128,user_ethiopia_411,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,17,2026-03-23 01:40:47,CBE,Google Play
+gp_rev_cbe_10129,user_ethiopia_661,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,10,2026-02-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10130,user_ethiopia_229,The interface hangs on the processing screen when checking my balance. Please optimize.,2,5,2024-09-15 01:40:47,CBE,Google Play
+gp_rev_cbe_10131,user_ethiopia_487,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,17,2024-08-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10132,user_ethiopia_776,Constant server communication timeout errors. Fix the customer support line.,1,10,2025-04-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10133,user_ethiopia_608,"Excellent update, transfers are fast and easy to navigate.",5,18,2025-08-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10134,user_ethiopia_793,The interface hangs on the processing screen when checking my balance. Please optimize.,2,9,2026-04-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10135,user_ethiopia_203,I keep getting a login error and the application crashes repeatedly on launch.,1,18,2025-01-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10136,user_ethiopia_616,Extremely slow loading times when making instant payments to other banks.,1,20,2025-11-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10137,user_ethiopia_191,The interface hangs on the processing screen when checking my balance. Please optimize.,2,7,2025-03-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10138,user_ethiopia_202,Constant server communication timeout errors. Fix the customer support line.,1,13,2025-01-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10139,user_ethiopia_985,Extremely slow loading times when making instant payments to other banks.,1,23,2026-01-15 01:40:47,CBE,Google Play
+gp_rev_cbe_10140,user_ethiopia_900,Very dependable mobile banking system for daily financial operations.,5,3,2025-07-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10141,user_ethiopia_643,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,3,2025-01-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10142,user_ethiopia_828,Very dependable mobile banking system for daily financial operations.,5,14,2025-07-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10143,user_ethiopia_728,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,20,2024-06-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10144,user_ethiopia_153,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,19,2025-01-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10145,user_ethiopia_130,Extremely slow loading times when making instant payments to other banks.,1,9,2025-06-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10146,user_ethiopia_351,The app is so slow during transfers. It takes forever to load my account balance.,2,8,2025-11-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10147,user_ethiopia_848,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,4,2026-03-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10148,user_ethiopia_864,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,7,2024-12-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10149,user_ethiopia_296,The interface hangs on the processing screen when checking my balance. Please optimize.,2,5,2026-01-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10150,user_ethiopia_742,Very dependable mobile banking system for daily financial operations.,5,13,2024-07-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10151,user_ethiopia_730,Very dependable mobile banking system for daily financial operations.,5,0,2025-10-31 01:40:47,CBE,Google Play
+gp_rev_cbe_10152,user_ethiopia_901,I keep getting a login error and the application crashes repeatedly on launch.,1,8,2025-04-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10153,user_ethiopia_867,The app is so slow during transfers. It takes forever to load my account balance.,2,15,2025-01-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10154,user_ethiopia_807,Extremely slow loading times when making instant payments to other banks.,1,24,2025-07-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10155,user_ethiopia_452,The interface hangs on the processing screen when checking my balance. Please optimize.,2,19,2026-03-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10156,user_ethiopia_680,Great interface! Please add fingerprint login or biometric support for security.,4,1,2024-10-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10157,user_ethiopia_865,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,23,2025-07-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10158,user_ethiopia_812,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,17,2026-01-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10159,user_ethiopia_768,The interface hangs on the processing screen when checking my balance. Please optimize.,2,10,2026-02-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10160,user_ethiopia_768,Very dependable mobile banking system for daily financial operations.,5,5,2025-03-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10161,user_ethiopia_627,The interface hangs on the processing screen when checking my balance. Please optimize.,2,6,2025-12-31 01:40:47,CBE,Google Play
+gp_rev_cbe_10162,user_ethiopia_896,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,8,2025-04-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10163,user_ethiopia_417,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,8,2025-03-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10164,user_ethiopia_143,Very dependable mobile banking system for daily financial operations.,5,1,2025-05-31 01:40:47,CBE,Google Play
+gp_rev_cbe_10165,user_ethiopia_333,Great interface! Please add fingerprint login or biometric support for security.,4,17,2024-11-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10166,user_ethiopia_620,Very dependable mobile banking system for daily financial operations.,5,12,2024-10-28 01:40:47,CBE,Google Play
+gp_rev_cbe_10167,user_ethiopia_136,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,6,2025-07-15 01:40:47,CBE,Google Play
+gp_rev_cbe_10168,user_ethiopia_577,Great interface! Please add fingerprint login or biometric support for security.,4,8,2025-11-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10169,user_ethiopia_851,"Excellent update, transfers are fast and easy to navigate.",5,13,2026-02-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10170,user_ethiopia_963,Constant server communication timeout errors. Fix the customer support line.,1,14,2024-09-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10171,user_ethiopia_421,"Excellent update, transfers are fast and easy to navigate.",5,24,2025-09-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10172,user_ethiopia_172,"Excellent update, transfers are fast and easy to navigate.",5,9,2025-05-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10173,user_ethiopia_888,The app is so slow during transfers. It takes forever to load my account balance.,2,14,2024-07-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10174,user_ethiopia_474,Constant server communication timeout errors. Fix the customer support line.,1,4,2025-05-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10175,user_ethiopia_686,Extremely slow loading times when making instant payments to other banks.,1,2,2025-10-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10176,user_ethiopia_645,I keep getting a login error and the application crashes repeatedly on launch.,1,1,2025-05-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10177,user_ethiopia_221,"Excellent update, transfers are fast and easy to navigate.",5,21,2026-03-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10178,user_ethiopia_870,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,22,2025-03-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10179,user_ethiopia_793,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,20,2025-04-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10180,user_ethiopia_434,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,2,2025-06-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10181,user_ethiopia_182,Very dependable mobile banking system for daily financial operations.,5,21,2025-08-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10182,user_ethiopia_294,Extremely slow loading times when making instant payments to other banks.,1,16,2026-04-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10183,user_ethiopia_777,"Excellent update, transfers are fast and easy to navigate.",5,13,2024-10-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10184,user_ethiopia_931,The interface hangs on the processing screen when checking my balance. Please optimize.,2,16,2024-09-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10185,user_ethiopia_903,Great interface! Please add fingerprint login or biometric support for security.,4,24,2025-04-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10186,user_ethiopia_400,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,1,2025-10-15 01:40:47,CBE,Google Play
+gp_rev_cbe_10187,user_ethiopia_148,I keep getting a login error and the application crashes repeatedly on launch.,1,6,2025-05-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10188,user_ethiopia_128,I keep getting a login error and the application crashes repeatedly on launch.,1,11,2025-07-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10189,user_ethiopia_178,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,25,2024-06-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10190,user_ethiopia_173,Great interface! Please add fingerprint login or biometric support for security.,4,23,2026-03-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10191,user_ethiopia_865,Constant server communication timeout errors. Fix the customer support line.,1,12,2024-08-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10192,user_ethiopia_290,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,12,2026-02-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10193,user_ethiopia_964,Constant server communication timeout errors. Fix the customer support line.,1,24,2025-02-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10194,user_ethiopia_731,"Excellent update, transfers are fast and easy to navigate.",5,9,2025-02-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10195,user_ethiopia_265,"Excellent update, transfers are fast and easy to navigate.",5,16,2024-06-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10196,user_ethiopia_432,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,3,2025-08-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10197,user_ethiopia_906,Constant server communication timeout errors. Fix the customer support line.,1,0,2026-04-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10198,user_ethiopia_367,The interface hangs on the processing screen when checking my balance. Please optimize.,2,15,2025-08-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10199,user_ethiopia_701,"Excellent update, transfers are fast and easy to navigate.",5,16,2025-02-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10200,user_ethiopia_969,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,11,2025-10-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10201,user_ethiopia_488,Extremely slow loading times when making instant payments to other banks.,1,21,2024-08-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10202,user_ethiopia_627,I keep getting a login error and the application crashes repeatedly on launch.,1,23,2024-07-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10203,user_ethiopia_627,"Excellent update, transfers are fast and easy to navigate.",5,18,2024-12-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10204,user_ethiopia_793,Constant server communication timeout errors. Fix the customer support line.,1,1,2026-01-31 01:40:47,CBE,Google Play
+gp_rev_cbe_10205,user_ethiopia_142,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,25,2026-03-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10206,user_ethiopia_534,Very dependable mobile banking system for daily financial operations.,5,22,2024-09-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10207,user_ethiopia_310,I keep getting a login error and the application crashes repeatedly on launch.,1,4,2025-01-31 01:40:47,CBE,Google Play
+gp_rev_cbe_10208,user_ethiopia_817,"Excellent update, transfers are fast and easy to navigate.",5,4,2026-01-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10209,user_ethiopia_533,"Excellent update, transfers are fast and easy to navigate.",5,1,2025-09-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10210,user_ethiopia_324,The interface hangs on the processing screen when checking my balance. Please optimize.,2,16,2025-04-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10211,user_ethiopia_642,Constant server communication timeout errors. Fix the customer support line.,1,10,2024-12-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10212,user_ethiopia_616,The interface hangs on the processing screen when checking my balance. Please optimize.,2,2,2025-07-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10213,user_ethiopia_874,Extremely slow loading times when making instant payments to other banks.,1,16,2025-08-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10214,user_ethiopia_999,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,4,2025-08-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10215,user_ethiopia_537,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,8,2024-08-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10216,user_ethiopia_674,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,21,2026-04-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10217,user_ethiopia_725,Constant server communication timeout errors. Fix the customer support line.,1,5,2025-06-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10218,user_ethiopia_402,Constant server communication timeout errors. Fix the customer support line.,1,18,2025-08-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10219,user_ethiopia_850,The app is so slow during transfers. It takes forever to load my account balance.,2,7,2025-01-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10220,user_ethiopia_629,The interface hangs on the processing screen when checking my balance. Please optimize.,2,2,2025-03-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10221,user_ethiopia_372,I keep getting a login error and the application crashes repeatedly on launch.,1,19,2024-10-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10222,user_ethiopia_848,Great interface! Please add fingerprint login or biometric support for security.,4,5,2025-09-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10223,user_ethiopia_347,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,16,2025-02-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10224,user_ethiopia_619,The app is so slow during transfers. It takes forever to load my account balance.,2,2,2025-07-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10225,user_ethiopia_544,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,20,2025-11-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10226,user_ethiopia_947,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,21,2024-07-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10227,user_ethiopia_176,Great interface! Please add fingerprint login or biometric support for security.,4,8,2025-05-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10228,user_ethiopia_996,I keep getting a login error and the application crashes repeatedly on launch.,1,12,2024-10-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10229,user_ethiopia_722,"Excellent update, transfers are fast and easy to navigate.",5,14,2025-01-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10230,user_ethiopia_377,Great interface! Please add fingerprint login or biometric support for security.,4,9,2025-01-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10231,user_ethiopia_852,Constant server communication timeout errors. Fix the customer support line.,1,4,2025-08-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10232,user_ethiopia_948,Very dependable mobile banking system for daily financial operations.,5,7,2024-08-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10233,user_ethiopia_908,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,25,2026-03-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10234,user_ethiopia_680,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,21,2025-07-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10235,user_ethiopia_726,The interface hangs on the processing screen when checking my balance. Please optimize.,2,7,2024-09-28 01:40:47,CBE,Google Play
+gp_rev_cbe_10236,user_ethiopia_326,"Excellent update, transfers are fast and easy to navigate.",5,20,2025-07-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10237,user_ethiopia_884,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,22,2026-01-28 01:40:47,CBE,Google Play
+gp_rev_cbe_10238,user_ethiopia_563,The app is so slow during transfers. It takes forever to load my account balance.,2,3,2025-04-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10239,user_ethiopia_161,Great interface! Please add fingerprint login or biometric support for security.,4,9,2026-05-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10240,user_ethiopia_676,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,8,2025-06-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10241,user_ethiopia_991,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,14,2024-10-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10242,user_ethiopia_550,Very dependable mobile banking system for daily financial operations.,5,7,2024-08-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10243,user_ethiopia_767,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,25,2025-11-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10244,user_ethiopia_890,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,13,2025-02-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10245,user_ethiopia_793,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,7,2024-09-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10246,user_ethiopia_854,Constant server communication timeout errors. Fix the customer support line.,1,19,2024-10-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10247,user_ethiopia_382,I keep getting a login error and the application crashes repeatedly on launch.,1,11,2026-01-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10248,user_ethiopia_626,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,19,2025-04-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10249,user_ethiopia_456,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,17,2026-05-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10250,user_ethiopia_606,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,13,2024-08-28 01:40:47,CBE,Google Play
+gp_rev_cbe_10251,user_ethiopia_993,Constant server communication timeout errors. Fix the customer support line.,1,1,2025-08-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10252,user_ethiopia_954,Very dependable mobile banking system for daily financial operations.,5,24,2025-07-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10253,user_ethiopia_744,Very dependable mobile banking system for daily financial operations.,5,5,2024-12-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10254,user_ethiopia_607,I keep getting a login error and the application crashes repeatedly on launch.,1,8,2024-09-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10255,user_ethiopia_631,The interface hangs on the processing screen when checking my balance. Please optimize.,2,7,2026-02-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10256,user_ethiopia_280,The interface hangs on the processing screen when checking my balance. Please optimize.,2,24,2026-04-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10257,user_ethiopia_767,The app is so slow during transfers. It takes forever to load my account balance.,2,22,2025-02-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10258,user_ethiopia_687,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,7,2024-07-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10259,user_ethiopia_971,Great interface! Please add fingerprint login or biometric support for security.,4,23,2024-08-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10260,user_ethiopia_230,Very dependable mobile banking system for daily financial operations.,5,11,2025-10-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10261,user_ethiopia_594,The app is so slow during transfers. It takes forever to load my account balance.,2,8,2026-01-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10262,user_ethiopia_692,"Excellent update, transfers are fast and easy to navigate.",5,4,2024-12-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10263,user_ethiopia_158,Extremely slow loading times when making instant payments to other banks.,1,11,2025-02-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10264,user_ethiopia_257,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,17,2024-11-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10265,user_ethiopia_949,I keep getting a login error and the application crashes repeatedly on launch.,1,5,2025-02-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10266,user_ethiopia_469,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,11,2025-08-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10267,user_ethiopia_152,Great interface! Please add fingerprint login or biometric support for security.,4,20,2025-11-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10268,user_ethiopia_130,Extremely slow loading times when making instant payments to other banks.,1,4,2025-02-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10269,user_ethiopia_346,I keep getting a login error and the application crashes repeatedly on launch.,1,12,2024-10-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10270,user_ethiopia_415,Extremely slow loading times when making instant payments to other banks.,1,6,2025-01-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10271,user_ethiopia_774,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,6,2026-05-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10272,user_ethiopia_615,Great interface! Please add fingerprint login or biometric support for security.,4,14,2025-05-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10273,user_ethiopia_887,"Excellent update, transfers are fast and easy to navigate.",5,25,2026-01-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10274,user_ethiopia_419,The app is so slow during transfers. It takes forever to load my account balance.,2,12,2025-05-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10275,user_ethiopia_890,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,21,2026-01-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10276,user_ethiopia_123,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,11,2024-10-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10277,user_ethiopia_163,"Excellent update, transfers are fast and easy to navigate.",5,11,2025-01-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10278,user_ethiopia_166,The interface hangs on the processing screen when checking my balance. Please optimize.,2,13,2024-08-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10279,user_ethiopia_122,"Excellent update, transfers are fast and easy to navigate.",5,18,2024-08-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10280,user_ethiopia_954,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,8,2025-12-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10281,user_ethiopia_735,"Excellent update, transfers are fast and easy to navigate.",5,1,2026-04-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10282,user_ethiopia_529,"Excellent update, transfers are fast and easy to navigate.",5,15,2024-10-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10283,user_ethiopia_213,Very dependable mobile banking system for daily financial operations.,5,11,2025-05-23 01:40:47,CBE,Google Play
+gp_rev_cbe_10284,user_ethiopia_879,"Excellent update, transfers are fast and easy to navigate.",5,11,2024-07-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10285,user_ethiopia_688,Constant server communication timeout errors. Fix the customer support line.,1,25,2024-07-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10286,user_ethiopia_837,"Excellent update, transfers are fast and easy to navigate.",5,22,2026-04-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10287,user_ethiopia_672,I keep getting a login error and the application crashes repeatedly on launch.,1,9,2024-07-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10288,user_ethiopia_688,Extremely slow loading times when making instant payments to other banks.,1,9,2024-12-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10289,user_ethiopia_419,The interface hangs on the processing screen when checking my balance. Please optimize.,2,5,2025-07-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10290,user_ethiopia_830,The interface hangs on the processing screen when checking my balance. Please optimize.,2,6,2025-02-15 01:40:47,CBE,Google Play
+gp_rev_cbe_10291,user_ethiopia_443,Very dependable mobile banking system for daily financial operations.,5,17,2024-11-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10292,user_ethiopia_393,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,7,2026-03-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10293,user_ethiopia_375,Constant server communication timeout errors. Fix the customer support line.,1,20,2026-01-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10294,user_ethiopia_891,Very dependable mobile banking system for daily financial operations.,5,24,2026-03-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10295,user_ethiopia_617,Great interface! Please add fingerprint login or biometric support for security.,4,15,2024-10-31 01:40:47,CBE,Google Play
+gp_rev_cbe_10296,user_ethiopia_736,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,18,2025-10-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10297,user_ethiopia_245,Extremely slow loading times when making instant payments to other banks.,1,24,2025-02-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10298,user_ethiopia_203,"Excellent update, transfers are fast and easy to navigate.",5,23,2024-08-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10299,user_ethiopia_235,Extremely slow loading times when making instant payments to other banks.,1,5,2026-01-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10300,user_ethiopia_321,Very dependable mobile banking system for daily financial operations.,5,6,2026-04-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10301,user_ethiopia_722,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,6,2025-12-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10302,user_ethiopia_269,"Excellent update, transfers are fast and easy to navigate.",5,15,2024-07-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10303,user_ethiopia_535,I keep getting a login error and the application crashes repeatedly on launch.,1,17,2025-04-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10304,user_ethiopia_989,Very dependable mobile banking system for daily financial operations.,5,17,2026-02-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10305,user_ethiopia_735,Extremely slow loading times when making instant payments to other banks.,1,2,2025-06-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10306,user_ethiopia_476,The interface hangs on the processing screen when checking my balance. Please optimize.,2,0,2025-12-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10307,user_ethiopia_894,Extremely slow loading times when making instant payments to other banks.,1,18,2025-05-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10308,user_ethiopia_921,Extremely slow loading times when making instant payments to other banks.,1,8,2024-12-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10309,user_ethiopia_664,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,8,2026-04-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10310,user_ethiopia_248,Constant server communication timeout errors. Fix the customer support line.,1,15,2025-11-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10311,user_ethiopia_969,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,10,2024-06-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10312,user_ethiopia_146,Extremely slow loading times when making instant payments to other banks.,1,19,2024-11-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10313,user_ethiopia_393,Extremely slow loading times when making instant payments to other banks.,1,12,2024-11-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10314,user_ethiopia_768,Constant server communication timeout errors. Fix the customer support line.,1,9,2026-03-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10315,user_ethiopia_243,Very dependable mobile banking system for daily financial operations.,5,25,2024-09-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10316,user_ethiopia_223,The interface hangs on the processing screen when checking my balance. Please optimize.,2,15,2025-08-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10317,user_ethiopia_801,The interface hangs on the processing screen when checking my balance. Please optimize.,2,12,2025-10-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10318,user_ethiopia_345,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,8,2024-12-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10319,user_ethiopia_791,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,15,2025-10-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10320,user_ethiopia_773,I keep getting a login error and the application crashes repeatedly on launch.,1,2,2024-06-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10321,user_ethiopia_101,Extremely slow loading times when making instant payments to other banks.,1,16,2025-08-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10322,user_ethiopia_781,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,0,2026-03-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10323,user_ethiopia_346,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,1,2024-12-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10324,user_ethiopia_568,Great interface! Please add fingerprint login or biometric support for security.,4,12,2026-01-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10325,user_ethiopia_642,Very dependable mobile banking system for daily financial operations.,5,2,2024-08-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10326,user_ethiopia_406,"Excellent update, transfers are fast and easy to navigate.",5,19,2025-12-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10327,user_ethiopia_468,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,8,2025-01-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10328,user_ethiopia_435,The app is so slow during transfers. It takes forever to load my account balance.,2,25,2024-10-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10329,user_ethiopia_941,Extremely slow loading times when making instant payments to other banks.,1,12,2025-11-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10330,user_ethiopia_804,The app is so slow during transfers. It takes forever to load my account balance.,2,11,2024-07-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10331,user_ethiopia_481,The interface hangs on the processing screen when checking my balance. Please optimize.,2,5,2025-09-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10332,user_ethiopia_824,I keep getting a login error and the application crashes repeatedly on launch.,1,3,2025-05-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10333,user_ethiopia_257,"Excellent update, transfers are fast and easy to navigate.",5,2,2024-11-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10334,user_ethiopia_387,Constant server communication timeout errors. Fix the customer support line.,1,14,2025-03-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10335,user_ethiopia_596,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,0,2025-09-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10336,user_ethiopia_519,Constant server communication timeout errors. Fix the customer support line.,1,17,2024-07-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10337,user_ethiopia_704,Very dependable mobile banking system for daily financial operations.,5,15,2025-12-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10338,user_ethiopia_931,Extremely slow loading times when making instant payments to other banks.,1,0,2026-02-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10339,user_ethiopia_236,The app is so slow during transfers. It takes forever to load my account balance.,2,10,2025-05-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10340,user_ethiopia_738,The interface hangs on the processing screen when checking my balance. Please optimize.,2,13,2024-07-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10341,user_ethiopia_520,The app is so slow during transfers. It takes forever to load my account balance.,2,0,2026-03-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10342,user_ethiopia_756,Great interface! Please add fingerprint login or biometric support for security.,4,21,2026-04-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10343,user_ethiopia_884,Constant server communication timeout errors. Fix the customer support line.,1,2,2025-06-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10344,user_ethiopia_589,Very dependable mobile banking system for daily financial operations.,5,20,2025-05-28 01:40:47,CBE,Google Play
+gp_rev_cbe_10345,user_ethiopia_185,Very dependable mobile banking system for daily financial operations.,5,17,2024-11-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10346,user_ethiopia_956,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,6,2025-11-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10347,user_ethiopia_620,"Excellent update, transfers are fast and easy to navigate.",5,6,2026-02-15 01:40:47,CBE,Google Play
+gp_rev_cbe_10348,user_ethiopia_938,The app is so slow during transfers. It takes forever to load my account balance.,2,16,2025-08-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10349,user_ethiopia_850,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,13,2025-12-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10350,user_ethiopia_599,The app is so slow during transfers. It takes forever to load my account balance.,2,21,2025-08-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10351,user_ethiopia_271,Constant server communication timeout errors. Fix the customer support line.,1,20,2024-10-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10352,user_ethiopia_550,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,6,2025-06-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10353,user_ethiopia_227,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,11,2025-11-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10354,user_ethiopia_978,The interface hangs on the processing screen when checking my balance. Please optimize.,2,17,2025-02-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10355,user_ethiopia_263,The app is so slow during transfers. It takes forever to load my account balance.,2,7,2024-07-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10356,user_ethiopia_372,The interface hangs on the processing screen when checking my balance. Please optimize.,2,23,2024-09-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10357,user_ethiopia_340,The interface hangs on the processing screen when checking my balance. Please optimize.,2,22,2025-10-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10358,user_ethiopia_612,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,23,2024-12-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10359,user_ethiopia_815,Extremely slow loading times when making instant payments to other banks.,1,18,2025-12-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10360,user_ethiopia_238,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,21,2025-04-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10361,user_ethiopia_399,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,21,2026-04-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10362,user_ethiopia_963,The app is so slow during transfers. It takes forever to load my account balance.,2,17,2024-07-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10363,user_ethiopia_564,Extremely slow loading times when making instant payments to other banks.,1,0,2025-07-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10364,user_ethiopia_793,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,15,2024-10-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10365,user_ethiopia_261,Very dependable mobile banking system for daily financial operations.,5,12,2025-02-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10366,user_ethiopia_453,Great interface! Please add fingerprint login or biometric support for security.,4,9,2025-07-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10367,user_ethiopia_401,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,8,2025-04-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10368,user_ethiopia_428,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,25,2025-11-23 01:40:47,CBE,Google Play
+gp_rev_cbe_10369,user_ethiopia_878,Constant server communication timeout errors. Fix the customer support line.,1,8,2025-10-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10370,user_ethiopia_442,I keep getting a login error and the application crashes repeatedly on launch.,1,15,2026-04-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10371,user_ethiopia_567,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,19,2024-12-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10372,user_ethiopia_868,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,22,2025-06-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10373,user_ethiopia_526,Extremely slow loading times when making instant payments to other banks.,1,24,2024-07-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10374,user_ethiopia_791,Constant server communication timeout errors. Fix the customer support line.,1,14,2025-02-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10375,user_ethiopia_586,Great interface! Please add fingerprint login or biometric support for security.,4,1,2026-03-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10376,user_ethiopia_231,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,11,2024-11-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10377,user_ethiopia_622,The app is so slow during transfers. It takes forever to load my account balance.,2,14,2025-05-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10378,user_ethiopia_231,Very dependable mobile banking system for daily financial operations.,5,25,2024-11-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10379,user_ethiopia_805,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,2,2025-05-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10380,user_ethiopia_692,The app is so slow during transfers. It takes forever to load my account balance.,2,13,2024-10-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10381,user_ethiopia_817,The app is so slow during transfers. It takes forever to load my account balance.,2,0,2026-02-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10382,user_ethiopia_163,I keep getting a login error and the application crashes repeatedly on launch.,1,24,2025-04-20 01:40:47,CBE,Google Play
+gp_rev_cbe_10383,user_ethiopia_660,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,11,2025-03-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10384,user_ethiopia_806,Great interface! Please add fingerprint login or biometric support for security.,4,7,2025-06-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10385,user_ethiopia_344,Great interface! Please add fingerprint login or biometric support for security.,4,1,2025-06-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10386,user_ethiopia_348,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,6,2025-04-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10387,user_ethiopia_287,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,2,2025-06-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10388,user_ethiopia_925,The app is so slow during transfers. It takes forever to load my account balance.,2,15,2025-05-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10389,user_ethiopia_720,Great interface! Please add fingerprint login or biometric support for security.,4,2,2024-09-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10390,user_ethiopia_410,The app is so slow during transfers. It takes forever to load my account balance.,2,20,2025-01-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10391,user_ethiopia_647,Very dependable mobile banking system for daily financial operations.,5,0,2024-10-15 01:40:47,CBE,Google Play
+gp_rev_cbe_10392,user_ethiopia_851,Very dependable mobile banking system for daily financial operations.,5,23,2024-08-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10393,user_ethiopia_317,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,9,2024-06-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10394,user_ethiopia_564,Constant server communication timeout errors. Fix the customer support line.,1,1,2025-03-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10395,user_ethiopia_762,"Excellent update, transfers are fast and easy to navigate.",5,22,2026-03-15 01:40:47,CBE,Google Play
+gp_rev_cbe_10396,user_ethiopia_949,Very dependable mobile banking system for daily financial operations.,5,16,2025-06-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10397,user_ethiopia_257,Very dependable mobile banking system for daily financial operations.,5,10,2024-09-23 01:40:47,CBE,Google Play
+gp_rev_cbe_10398,user_ethiopia_616,"Excellent update, transfers are fast and easy to navigate.",5,25,2024-09-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10399,user_ethiopia_118,I keep getting a login error and the application crashes repeatedly on launch.,1,24,2025-04-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10400,user_ethiopia_264,Constant server communication timeout errors. Fix the customer support line.,1,15,2024-09-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10401,user_ethiopia_185,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,25,2025-10-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10402,user_ethiopia_497,Extremely slow loading times when making instant payments to other banks.,1,22,2025-03-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10403,user_ethiopia_807,Extremely slow loading times when making instant payments to other banks.,1,25,2025-06-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10404,user_ethiopia_510,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,22,2025-05-28 01:40:47,CBE,Google Play
+gp_rev_cbe_10405,user_ethiopia_712,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,18,2026-01-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10406,user_ethiopia_144,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,0,2025-02-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10407,user_ethiopia_258,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,15,2025-06-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10408,user_ethiopia_231,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,10,2024-09-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10409,user_ethiopia_932,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,11,2024-12-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10410,user_ethiopia_664,The interface hangs on the processing screen when checking my balance. Please optimize.,2,6,2025-02-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10411,user_ethiopia_477,I keep getting a login error and the application crashes repeatedly on launch.,1,11,2024-12-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10412,user_ethiopia_989,The app is so slow during transfers. It takes forever to load my account balance.,2,11,2024-06-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10413,user_ethiopia_695,I keep getting a login error and the application crashes repeatedly on launch.,1,19,2025-08-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10414,user_ethiopia_890,Very dependable mobile banking system for daily financial operations.,5,16,2024-09-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10415,user_ethiopia_494,Great interface! Please add fingerprint login or biometric support for security.,4,12,2024-11-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10416,user_ethiopia_932,Very dependable mobile banking system for daily financial operations.,5,20,2025-10-23 01:40:47,CBE,Google Play
+gp_rev_cbe_10417,user_ethiopia_154,The app is so slow during transfers. It takes forever to load my account balance.,2,14,2024-10-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10418,user_ethiopia_768,Constant server communication timeout errors. Fix the customer support line.,1,0,2024-12-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10419,user_ethiopia_837,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,8,2025-05-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10420,user_ethiopia_742,Constant server communication timeout errors. Fix the customer support line.,1,1,2026-03-01 01:40:47,CBE,Google Play
+gp_rev_cbe_10421,user_ethiopia_840,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,10,2025-08-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10422,user_ethiopia_260,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,15,2025-06-27 01:40:47,CBE,Google Play
+gp_rev_cbe_10423,user_ethiopia_281,I keep getting a login error and the application crashes repeatedly on launch.,1,17,2025-06-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10424,user_ethiopia_600,The app is so slow during transfers. It takes forever to load my account balance.,2,20,2025-01-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10425,user_ethiopia_383,Very dependable mobile banking system for daily financial operations.,5,2,2025-12-31 01:40:47,CBE,Google Play
+gp_rev_cbe_10426,user_ethiopia_247,I keep getting a login error and the application crashes repeatedly on launch.,1,5,2025-05-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10427,user_ethiopia_298,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,25,2026-05-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10428,user_ethiopia_827,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,15,2024-07-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10429,user_ethiopia_351,Extremely slow loading times when making instant payments to other banks.,1,11,2025-08-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10430,user_ethiopia_504,Extremely slow loading times when making instant payments to other banks.,1,13,2026-05-03 01:40:47,CBE,Google Play
+gp_rev_cbe_10431,user_ethiopia_563,The interface hangs on the processing screen when checking my balance. Please optimize.,2,15,2025-03-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10432,user_ethiopia_645,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,25,2025-12-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10433,user_ethiopia_101,The app is so slow during transfers. It takes forever to load my account balance.,2,5,2025-05-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10434,user_ethiopia_875,The app is so slow during transfers. It takes forever to load my account balance.,2,13,2024-11-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10435,user_ethiopia_347,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,16,2025-10-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10436,user_ethiopia_186,The app is so slow during transfers. It takes forever to load my account balance.,2,1,2025-07-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10437,user_ethiopia_518,Great interface! Please add fingerprint login or biometric support for security.,4,21,2025-06-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10438,user_ethiopia_557,I keep getting a login error and the application crashes repeatedly on launch.,1,22,2026-02-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10439,user_ethiopia_605,Extremely slow loading times when making instant payments to other banks.,1,15,2025-10-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10440,user_ethiopia_488,"Excellent update, transfers are fast and easy to navigate.",5,0,2024-08-29 01:40:47,CBE,Google Play
+gp_rev_cbe_10441,user_ethiopia_465,Constant server communication timeout errors. Fix the customer support line.,1,5,2024-09-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10442,user_ethiopia_824,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,0,2025-12-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10443,user_ethiopia_361,"Excellent update, transfers are fast and easy to navigate.",5,20,2024-12-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10444,user_ethiopia_204,"Excellent update, transfers are fast and easy to navigate.",5,15,2025-01-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10445,user_ethiopia_649,Very dependable mobile banking system for daily financial operations.,5,23,2025-03-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10446,user_ethiopia_314,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,6,2025-01-31 01:40:47,CBE,Google Play
+gp_rev_cbe_10447,user_ethiopia_298,The interface hangs on the processing screen when checking my balance. Please optimize.,2,15,2025-10-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10448,user_ethiopia_877,The interface hangs on the processing screen when checking my balance. Please optimize.,2,0,2024-09-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10449,user_ethiopia_703,The app is so slow during transfers. It takes forever to load my account balance.,2,7,2025-06-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10450,user_ethiopia_713,Extremely slow loading times when making instant payments to other banks.,1,3,2025-11-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10451,user_ethiopia_441,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,20,2025-05-05 01:40:47,CBE,Google Play
+gp_rev_cbe_10452,user_ethiopia_402,The app is so slow during transfers. It takes forever to load my account balance.,2,10,2025-07-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10453,user_ethiopia_425,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,21,2025-11-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10454,user_ethiopia_866,I keep getting a login error and the application crashes repeatedly on launch.,1,4,2025-09-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10455,user_ethiopia_102,Constant server communication timeout errors. Fix the customer support line.,1,20,2025-07-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10456,user_ethiopia_186,Great interface! Please add fingerprint login or biometric support for security.,4,20,2025-12-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10457,user_ethiopia_959,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,0,2025-02-15 01:40:47,CBE,Google Play
+gp_rev_cbe_10458,user_ethiopia_667,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,6,2025-06-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10459,user_ethiopia_346,Very dependable mobile banking system for daily financial operations.,5,5,2024-11-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10460,user_ethiopia_937,The interface hangs on the processing screen when checking my balance. Please optimize.,2,12,2025-06-14 01:40:47,CBE,Google Play
+gp_rev_cbe_10461,user_ethiopia_987,Extremely slow loading times when making instant payments to other banks.,1,17,2026-01-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10462,user_ethiopia_142,The app is so slow during transfers. It takes forever to load my account balance.,2,1,2025-03-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10463,user_ethiopia_566,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,2,2025-06-06 01:40:47,CBE,Google Play
+gp_rev_cbe_10464,user_ethiopia_518,Extremely slow loading times when making instant payments to other banks.,1,11,2024-10-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10465,user_ethiopia_346,The interface hangs on the processing screen when checking my balance. Please optimize.,2,6,2025-12-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10466,user_ethiopia_781,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,10,2025-12-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10467,user_ethiopia_319,"Excellent update, transfers are fast and easy to navigate.",5,2,2026-01-19 01:40:47,CBE,Google Play
+gp_rev_cbe_10468,user_ethiopia_968,Very dependable mobile banking system for daily financial operations.,5,20,2025-05-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10469,user_ethiopia_427,Extremely slow loading times when making instant payments to other banks.,1,17,2024-07-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10470,user_ethiopia_538,The interface hangs on the processing screen when checking my balance. Please optimize.,2,5,2025-12-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10471,user_ethiopia_993,The app is so slow during transfers. It takes forever to load my account balance.,2,20,2024-12-09 01:40:47,CBE,Google Play
+gp_rev_cbe_10472,user_ethiopia_672,Extremely slow loading times when making instant payments to other banks.,1,6,2025-08-23 01:40:47,CBE,Google Play
+gp_rev_cbe_10473,user_ethiopia_863,"Excellent update, transfers are fast and easy to navigate.",5,17,2025-12-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10474,user_ethiopia_668,Extremely slow loading times when making instant payments to other banks.,1,19,2024-10-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10475,user_ethiopia_559,Extremely slow loading times when making instant payments to other banks.,1,0,2025-03-18 01:40:47,CBE,Google Play
+gp_rev_cbe_10476,user_ethiopia_689,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,13,2026-01-13 01:40:47,CBE,Google Play
+gp_rev_cbe_10477,user_ethiopia_204,I keep getting a login error and the application crashes repeatedly on launch.,1,18,2025-04-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10478,user_ethiopia_138,Smooth transactions. I highly recommend adding a fingerprint scanner feature.,5,16,2025-05-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10479,user_ethiopia_460,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,5,2025-06-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10480,user_ethiopia_244,I keep getting a login error and the application crashes repeatedly on launch.,1,22,2026-04-17 01:40:47,CBE,Google Play
+gp_rev_cbe_10481,user_ethiopia_335,"Excellent update, transfers are fast and easy to navigate.",5,23,2024-08-08 01:40:47,CBE,Google Play
+gp_rev_cbe_10482,user_ethiopia_755,The interface hangs on the processing screen when checking my balance. Please optimize.,2,11,2025-09-30 01:40:47,CBE,Google Play
+gp_rev_cbe_10483,user_ethiopia_842,The interface hangs on the processing screen when checking my balance. Please optimize.,2,9,2025-04-25 01:40:47,CBE,Google Play
+gp_rev_cbe_10484,user_ethiopia_465,Great interface! Please add fingerprint login or biometric support for security.,4,15,2026-01-02 01:40:47,CBE,Google Play
+gp_rev_cbe_10485,user_ethiopia_784,Constant server communication timeout errors. Fix the customer support line.,1,8,2025-03-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10486,user_ethiopia_976,The interface hangs on the processing screen when checking my balance. Please optimize.,2,0,2026-04-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10487,user_ethiopia_798,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,10,2025-12-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10488,user_ethiopia_282,The interface hangs on the processing screen when checking my balance. Please optimize.,2,7,2026-04-16 01:40:47,CBE,Google Play
+gp_rev_cbe_10489,user_ethiopia_721,"Excellent update, transfers are fast and easy to navigate.",5,14,2024-12-11 01:40:47,CBE,Google Play
+gp_rev_cbe_10490,user_ethiopia_121,The interface hangs on the processing screen when checking my balance. Please optimize.,2,22,2025-07-22 01:40:47,CBE,Google Play
+gp_rev_cbe_10491,user_ethiopia_896,"I really love using this app, but we need budgeting tools and dark mode features ASAP.",4,2,2024-07-26 01:40:47,CBE,Google Play
+gp_rev_cbe_10492,user_ethiopia_704,The interface hangs on the processing screen when checking my balance. Please optimize.,2,6,2024-09-04 01:40:47,CBE,Google Play
+gp_rev_cbe_10493,user_ethiopia_381,The system fails to send the OTP code. I cannot access my wallet or complete transactions.,1,4,2024-08-21 01:40:47,CBE,Google Play
+gp_rev_cbe_10494,user_ethiopia_862,Great interface! Please add fingerprint login or biometric support for security.,4,1,2025-04-12 01:40:47,CBE,Google Play
+gp_rev_cbe_10495,user_ethiopia_778,Constant server communication timeout errors. Fix the customer support line.,1,10,2024-10-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10496,user_ethiopia_351,Very dependable mobile banking system for daily financial operations.,5,15,2026-04-10 01:40:47,CBE,Google Play
+gp_rev_cbe_10497,user_ethiopia_296,Great interface! Please add fingerprint login or biometric support for security.,4,9,2024-10-07 01:40:47,CBE,Google Play
+gp_rev_cbe_10498,user_ethiopia_420,Extremely slow loading times when making instant payments to other banks.,1,0,2024-10-24 01:40:47,CBE,Google Play
+gp_rev_cbe_10499,user_ethiopia_390,Great interface! Please add fingerprint login or biometric support for security.,4,8,2024-09-05 01:40:47,CBE,Google Play
